@@ -4,6 +4,9 @@ A professional Telegram Bot and Web Admin Dashboard for managing staff lunch ord
 
 ## Features
 
+
+
+
 - **Telegram Bot**: 
   - Staff registration by branch.
   - One-click lunch ordering and cancellation via inline buttons.
